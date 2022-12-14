@@ -2,10 +2,10 @@
 
 ### Screenshot
 
-<p>
+<div>
   <img src="screenshot-light.png" width="49%">
   <img src="screenshot-dark.png" width="49%">
-</p>
+</div>
 
 https://imersao.dev/aulas/aula10-portfolio
 
